@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/*
+Theme Name: Ben Patel
+Theme URI: http://benpatel.com/
+Author: tNick
+Author URI: http://benpatel.com/
+Description: Custom Theme developed for Ben Patel
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: Ben Patel
+*/
+
+
+*{
+   -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+        -o-box-sizing: border-box;
+           box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.fa {
+  font-family: 'FontAwesome';
+  font-style: normal;
+}
+
+a,
+a:hover{
+	text-decoration: none;
+}
+
+a:focus{
+	outline: none;
+	text-decoration: none;
+	color: #fff
+}
+
+
+h1{font-size: 50px; line-height: 50px;}
+h2{font-size: 40px; line-height: 45px;}
+h3{font-size: 35px; line-height: 40px;}
+h4{font-size: 28px; line-height: 33px;}
+h5{font-size: 22px; line-height: 28px;}
+h6{font-size: 19px; line-height: 22px;}
+
+p{font-size: 15px; line-height: 24px; font-weight: 400; color: #000; font-family: 'Open sans', sans-serif;}
