@@ -120,7 +120,7 @@ p{font-size: 15px; line-height: 24px; font-weight: 400; color: #000; font-family
 .page-content{
   padding: 20px 10px;
   background: #fff;
-    box-shadow: 2px 10px 10px #ccc
+    
 }
 .page-footer{
   border-radius: 0px 0px 10px 10px;
@@ -129,4 +129,12 @@ p{font-size: 15px; line-height: 24px; font-weight: 400; color: #000; font-family
   color: #fff;
   background:#fff;
   box-shadow: 2px 10px 10px #ccc
+}
+
+/******* Resume Page ********/
+.resume-data{
+border:solid 1px red;
+}
+.resume-details{
+  border:solid 1px red;
 }
