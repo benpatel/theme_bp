@@ -22,7 +22,7 @@
                 <p class="text-center mt-0 pt-0 text-muted mb-3">AKA : Ben Patel</p>
                 <p><b><i class="fas fa-envelope-square"></i> </b> binal1510@gmail.com</p>
                 <p><b><i class="fas fa-phone-square-alt"></i> </b> (516) 444 9666</p>
-                <p class="text-center mt-2 mb-3"><i class="fa-2x fab fa-github-square"></i> <i class="fa-2x fab fa-linkedin"></i></p>
+                <p class="text-center mt-2 mb-3"><a href="https://github.com/benpatel" target="_blank"><i class="fa-2x fab fa-github-square"></i></a> <a href="https://www.linkedin.com/in/binalpatel-1510/" target="_blank"><i class="fa-2x fab fa-linkedin"></i></a></p>
                 </div>
             </div>
 
