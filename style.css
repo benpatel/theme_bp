@@ -176,6 +176,23 @@ p{font-size: 16px; line-height: 26px; font-weight: 400; color: #000; font-family
   margin: 0px auto;
 
 }
+
+.portfolio .wp-block-media-text{
+
+display: grid;
+grid-template-columns: minmax(350px, 1fr) minmax(400px, 3fr);
+border:solid 1px #ccc;
+padding: 10px;
+margin-bottom: 50px;
+border-radius: 8px;
+ box-shadow: 2px 10px 10px #ccc;
+
+}
+.portfolio .wp-block-media-text img{
+  max-width: 350px;
+  height: auto;
+}
+
 @media screen and (min-width: 900px) {
 
   .resume-details{
