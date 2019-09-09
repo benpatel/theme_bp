@@ -168,6 +168,9 @@ p{font-size: 16px; line-height: 26px; font-weight: 400; color: #000; font-family
 .about-me-contact{
   max-width: 250px;
 }
+.about-me-contact a{
+  cursor: pointer;
+}
 .about-me-pic p{
   padding:5px 25px 0px 25px;
   margin:0px;
