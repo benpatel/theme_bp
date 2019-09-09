@@ -12,7 +12,7 @@
   <div class="container">
   <!-- Site Logo Start -->
   <div class="site-logo-block mobile-hidden">
-    <a href="https://lmpixels.com/wp/aveo/">
+    <a href="<?php echo esc_url( home_url( '/' ) ); ?>">
       <h1 class="site-title pt-3">Ben<span> Patel</span></h1>
     </a>
   </div>
