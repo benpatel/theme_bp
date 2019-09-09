@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
       <?php wp_head(); ?>
-  
+    <script src="https://kit.fontawesome.com/52e89fd43b.js"></script>
 </head>
 <body <?php body_class(); ?>>
 

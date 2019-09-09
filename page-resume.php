@@ -13,17 +13,13 @@
   <div class="page-content col-12">
     <div id="resume-page" class="row m-0">
         <div class="col-lg-12">
-          <div  class="resume-details" >
-            <h5><b>Experience</b></h5>
-
-            <div>
-              
-            </div>
+          <div  class="resume" >
+               <?php the_content(); ?>
           </div>
         </div>
 
     </div>
-	 <?php the_content(); ?>
+
   </div>
   <div class="page-footer"></div>
   <?php
