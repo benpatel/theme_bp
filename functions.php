@@ -17,6 +17,7 @@ function bp_theme_support(){
 	add_theme_support( 'post-thumbnails' );
 	add_theme_support( 'menus' );
 	register_nav_menu('primary','Main Site Navigation');
+	add_theme_support( 'title-tag' );
 }
 
 add_filter('next_posts_link_attributes', 'posts_links_attributes');
